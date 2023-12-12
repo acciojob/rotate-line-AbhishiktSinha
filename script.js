@@ -1,6 +1,6 @@
 //your JS code here. If required.
 
-const line = document.querySelector(".line");
+const line = document.querySelector("#line");
 let angle = 2;
 
 function rotate() {
